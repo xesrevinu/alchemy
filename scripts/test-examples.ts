@@ -39,6 +39,7 @@ const examples = [
   // "./examples/aws-website-sveltekit",
   // "./examples/aws-website-tanstack-start",
   // "./examples/aws-website-vite",
+  // "./examples/aws-website-vinext",
   // "./examples/aws-website-waku",
   "./examples/fly-app",
   "./examples/fly-service",
